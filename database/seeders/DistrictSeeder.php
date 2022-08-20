@@ -22,6 +22,9 @@ class DistrictSeeder extends Seeder
             'name' => 'Chittagong'
         ]);
         District::create([
+            'name' => 'Rajshahi'
+        ]);
+        District::create([
             'name' => 'Khulna'
         ]);
         District::create([
